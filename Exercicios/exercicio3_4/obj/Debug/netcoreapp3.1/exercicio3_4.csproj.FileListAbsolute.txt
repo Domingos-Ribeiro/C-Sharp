@@ -1,0 +1,13 @@
+A:\C#\exercicio3_4\bin\Debug\netcoreapp3.1\exercicio3_4.exe
+A:\C#\exercicio3_4\bin\Debug\netcoreapp3.1\exercicio3_4.deps.json
+A:\C#\exercicio3_4\bin\Debug\netcoreapp3.1\exercicio3_4.runtimeconfig.json
+A:\C#\exercicio3_4\bin\Debug\netcoreapp3.1\exercicio3_4.runtimeconfig.dev.json
+A:\C#\exercicio3_4\bin\Debug\netcoreapp3.1\exercicio3_4.dll
+A:\C#\exercicio3_4\bin\Debug\netcoreapp3.1\exercicio3_4.pdb
+A:\C#\exercicio3_4\obj\Debug\netcoreapp3.1\exercicio3_4.csprojAssemblyReference.cache
+A:\C#\exercicio3_4\obj\Debug\netcoreapp3.1\exercicio3_4.AssemblyInfoInputs.cache
+A:\C#\exercicio3_4\obj\Debug\netcoreapp3.1\exercicio3_4.AssemblyInfo.cs
+A:\C#\exercicio3_4\obj\Debug\netcoreapp3.1\exercicio3_4.csproj.CoreCompileInputs.cache
+A:\C#\exercicio3_4\obj\Debug\netcoreapp3.1\exercicio3_4.dll
+A:\C#\exercicio3_4\obj\Debug\netcoreapp3.1\exercicio3_4.pdb
+A:\C#\exercicio3_4\obj\Debug\netcoreapp3.1\exercicio3_4.genruntimeconfig.cache

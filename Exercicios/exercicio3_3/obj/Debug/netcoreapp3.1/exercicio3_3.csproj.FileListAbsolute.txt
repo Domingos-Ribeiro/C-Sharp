@@ -1,0 +1,14 @@
+A:\C#\exercicio3_3\bin\Debug\netcoreapp3.1\exercicio3_3.exe
+A:\C#\exercicio3_3\bin\Debug\netcoreapp3.1\exercicio3_3.deps.json
+A:\C#\exercicio3_3\bin\Debug\netcoreapp3.1\exercicio3_3.runtimeconfig.json
+A:\C#\exercicio3_3\bin\Debug\netcoreapp3.1\exercicio3_3.runtimeconfig.dev.json
+A:\C#\exercicio3_3\bin\Debug\netcoreapp3.1\exercicio3_3.dll
+A:\C#\exercicio3_3\bin\Debug\netcoreapp3.1\exercicio3_3.pdb
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.csprojAssemblyReference.cache
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.AssemblyInfoInputs.cache
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.AssemblyInfo.cs
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.csproj.CoreCompileInputs.cache
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.dll
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.pdb
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.genruntimeconfig.cache
+A:\C#\exercicio3_3\obj\Debug\netcoreapp3.1\exercicio3_3.csproj.ResolveComReference.cache
