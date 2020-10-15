@@ -19,7 +19,18 @@ namespace ex_2
 
         private void btn_Adiciona_Click(object sender, EventArgs e)
         {
-            ListBox:lst_1.Items.Add(txt_Nome.Text);
+            if (txt_Nome.Text == "")
+            {
+                lst_1.Items.Remove(txt_Nome.Text);
+                MessageBox.Show("Por favor digite um nome primeiro!");
+            }
+
+            else
+            {
+                ListBox:lst_1.Items.Add(txt_Nome.Text);
+            }
+            
+            
         }
 
         private void btn_Remove_Click(object sender, EventArgs e)
@@ -41,6 +52,8 @@ namespace ex_2
                 {
                     MessageBox.Show("O nome que digitou, não existe na ListBox, \nCompre uns Óculos e depois tente novamente.");
                 }
+
+           
             
         }
     }
