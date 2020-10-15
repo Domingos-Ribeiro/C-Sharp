@@ -30,12 +30,12 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.pnl_cima = new System.Windows.Forms.Panel();
-            this.txt_Nome = new System.Windows.Forms.TextBox();
             this.btn_Adiciona = new System.Windows.Forms.Button();
+            this.txt_Nome = new System.Windows.Forms.TextBox();
             this.btn_Remove = new System.Windows.Forms.Button();
             this.pnl_meio = new System.Windows.Forms.Panel();
-            this.pnl_baixo = new System.Windows.Forms.Panel();
             this.lst_1 = new System.Windows.Forms.ListBox();
+            this.pnl_baixo = new System.Windows.Forms.Panel();
             this.pnl_cima.SuspendLayout();
             this.pnl_meio.SuspendLayout();
             this.pnl_baixo.SuspendLayout();
@@ -44,9 +44,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(16, 5);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(39, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nome";
             // 
@@ -60,6 +61,17 @@
             this.pnl_cima.Size = new System.Drawing.Size(410, 82);
             this.pnl_cima.TabIndex = 1;
             // 
+            // btn_Adiciona
+            // 
+            this.btn_Adiciona.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Adiciona.Location = new System.Drawing.Point(244, 47);
+            this.btn_Adiciona.Name = "btn_Adiciona";
+            this.btn_Adiciona.Size = new System.Drawing.Size(147, 32);
+            this.btn_Adiciona.TabIndex = 2;
+            this.btn_Adiciona.Text = "Adicionar Nome";
+            this.btn_Adiciona.UseVisualStyleBackColor = true;
+            this.btn_Adiciona.Click += new System.EventHandler(this.btn_Adiciona_Click);
+            // 
             // txt_Nome
             // 
             this.txt_Nome.Location = new System.Drawing.Point(19, 21);
@@ -67,25 +79,14 @@
             this.txt_Nome.Size = new System.Drawing.Size(372, 20);
             this.txt_Nome.TabIndex = 1;
             // 
-            // btn_Adiciona
-            // 
-            this.btn_Adiciona.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Adiciona.Location = new System.Drawing.Point(277, 47);
-            this.btn_Adiciona.Name = "btn_Adiciona";
-            this.btn_Adiciona.Size = new System.Drawing.Size(114, 32);
-            this.btn_Adiciona.TabIndex = 2;
-            this.btn_Adiciona.Text = "Adicionar";
-            this.btn_Adiciona.UseVisualStyleBackColor = true;
-            this.btn_Adiciona.Click += new System.EventHandler(this.btn_Adiciona_Click);
-            // 
             // btn_Remove
             // 
             this.btn_Remove.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Remove.Location = new System.Drawing.Point(277, 9);
+            this.btn_Remove.Location = new System.Drawing.Point(244, 9);
             this.btn_Remove.Name = "btn_Remove";
-            this.btn_Remove.Size = new System.Drawing.Size(114, 35);
+            this.btn_Remove.Size = new System.Drawing.Size(147, 35);
             this.btn_Remove.TabIndex = 2;
-            this.btn_Remove.Text = "Remover";
+            this.btn_Remove.Text = "Remover Nome";
             this.btn_Remove.UseVisualStyleBackColor = true;
             this.btn_Remove.Click += new System.EventHandler(this.btn_Remove_Click);
             // 
@@ -97,14 +98,6 @@
             this.pnl_meio.Size = new System.Drawing.Size(410, 519);
             this.pnl_meio.TabIndex = 3;
             // 
-            // pnl_baixo
-            // 
-            this.pnl_baixo.Controls.Add(this.btn_Remove);
-            this.pnl_baixo.Location = new System.Drawing.Point(12, 625);
-            this.pnl_baixo.Name = "pnl_baixo";
-            this.pnl_baixo.Size = new System.Drawing.Size(410, 54);
-            this.pnl_baixo.TabIndex = 4;
-            // 
             // lst_1
             // 
             this.lst_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -114,6 +107,14 @@
             this.lst_1.Name = "lst_1";
             this.lst_1.Size = new System.Drawing.Size(372, 500);
             this.lst_1.TabIndex = 0;
+            // 
+            // pnl_baixo
+            // 
+            this.pnl_baixo.Controls.Add(this.btn_Remove);
+            this.pnl_baixo.Location = new System.Drawing.Point(12, 625);
+            this.pnl_baixo.Name = "pnl_baixo";
+            this.pnl_baixo.Size = new System.Drawing.Size(410, 54);
+            this.pnl_baixo.TabIndex = 4;
             // 
             // Form1
             // 
