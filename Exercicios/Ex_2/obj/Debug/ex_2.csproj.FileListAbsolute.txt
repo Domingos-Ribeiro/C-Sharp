@@ -1,0 +1,20 @@
+A:\C#\ex_2\bin\Debug\ex_2.exe.config
+A:\C#\ex_2\bin\Debug\ex_2.exe
+A:\C#\ex_2\bin\Debug\ex_2.pdb
+A:\C#\ex_2\obj\Debug\ex_2.csprojAssemblyReference.cache
+A:\C#\ex_2\obj\Debug\ex_2.Form1.resources
+A:\C#\ex_2\obj\Debug\ex_2.Properties.Resources.resources
+A:\C#\ex_2\obj\Debug\ex_2.csproj.GenerateResource.cache
+A:\C#\ex_2\obj\Debug\ex_2.csproj.CoreCompileInputs.cache
+A:\C#\ex_2\obj\Debug\ex_2.exe
+A:\C#\ex_2\obj\Debug\ex_2.pdb
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\bin\Debug\ex_2.exe.config
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\bin\Debug\ex_2.exe
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\bin\Debug\ex_2.pdb
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\obj\Debug\ex_2.csprojAssemblyReference.cache
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\obj\Debug\ex_2.Form1.resources
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\obj\Debug\ex_2.Properties.Resources.resources
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\obj\Debug\ex_2.csproj.GenerateResource.cache
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\obj\Debug\ex_2.csproj.CoreCompileInputs.cache
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\obj\Debug\ex_2.exe
+A:\GitHub\Os meus Projetos\C Sharp\C-Sharp\Exercicios\Ex_2\obj\Debug\ex_2.pdb
