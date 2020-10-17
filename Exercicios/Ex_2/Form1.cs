@@ -27,7 +27,7 @@ namespace ex_2
 
             else
             {
-                ListBox:lst_1.Items.Add(txt_Nome.Text);
+                lst_1.Items.Add(txt_Nome.Text);
             }
             
             
